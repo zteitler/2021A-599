@@ -1,0 +1,72 @@
+---
+layout: post
+---
+
+{% comment %}
+
+{%- assign basenameparts = page.name | remove: ".md" | split: "-" | reverse -%}
+
+{%- assign coursenumber = basenameparts[0] -%}
+{%- assign shortsemester = basenameparts[1] -%}
+
+{%- if shortsemester contains "A" -%}
+  {%- assign semester = "Spring" -%}
+{%- elsif shortsemester contains "B" -%}
+  {%- assign semester = "Summer" -%}
+{%- elsif shortsemester contains "C" -%}
+  {%- assign semester = "Fall" -%}
+{%- endif -%}
+
+{%- assign year = shortsemester | slice: 0, 4 -%}
+
+{% endcomment %}
+
+{% assign coursenumber = page.coursenumber %}
+{% assign semester = page.semester %}
+{% assign year = page.year %}
+
+{% capture courseassetsdir %}/courses/course_static_assets/{{ page.shortsemester }}-{{ coursenumber }}{% endcapture %}
+
+<div>
+<h2>
+  {% if page.courseprefix %}{{ page.courseprefix }}{% else %} Math {% endif %} {{ coursenumber }}, {{ semester }} {{ year }}
+</h2>
+</div>
+
+{% if page.catalog %}
+<div>
+  {{page.catalog | markdownify}}
+</div>
+{% endif %}
+
+
+{% assign syllabusprefix = "zteitler" %}
+{% capture syllabusbasename %}
+{{ page.shortsemester }}-{{ coursenumber }}-syllabus
+{% endcapture %}
+
+{%- if page.syllabus_pdf or page.syllabus_html or page.syllabus_standalone_html -%}
+<div>
+<h2>Syllabus:</h2>
+<ul>
+  {%- if page.syllabus_html -%}
+    <li>
+      <a href="{{ courseassetsdir }}/{{ syllabusbasename }}-html/{{ syllabusprefix }}-{{ syllabusbasename }}.html">HTML (accessible)</a>
+    </li>
+  {%- endif -%}
+  {%- if page.syllabus_standalone_html -%}
+    <li>
+      <a href="{{ courseassetsdir }}/{{ syllabusprefix }}-{{ syllabusbasename }}-standalone.html">HTML (accessible, single page)</a>
+    </li>
+  {%- endif -%}
+  {%- if page.syllabus_pdf -%}
+    <li>
+      <a href="{{ courseassetsdir }}/{{ syllabusprefix }}-{{ syllabusbasename }}.pdf">PDF</a>
+    </li>
+  {%- endif -%}
+</ul>
+</div>
+{%- endif -%}
+
+
+{{ content }}
