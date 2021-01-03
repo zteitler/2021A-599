@@ -38,7 +38,7 @@ headercounters: true
 : <zteitler@boisestate.edu>
 
 **Website**:
-: <https://sites.google.com/site/zteitler/home>, <https://zteitler.github.io>
+: <https://zteitler.github.io>
 
 **Office**:
 : MB 233A
