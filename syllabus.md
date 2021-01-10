@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Math 599, Spring 2021 Syllabus
+title: Syllabus
 headercounters: true
 ---
 
