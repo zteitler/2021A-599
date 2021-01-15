@@ -7,7 +7,7 @@ title: Calendar
 
 | Date | Topic |
 | :--- | :--- |
-| Friday, January 15 | TBA |
+| Friday, January 15 | Welcome! Planning |
 | Friday, January 22 | TBA |
 | Friday, January 29 | TBA |
 | Friday, February 5 | TBA |
