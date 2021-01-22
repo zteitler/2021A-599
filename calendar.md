@@ -8,9 +8,9 @@ title: Calendar
 | Date | Topic |
 | :--- | :--- |
 | Friday, January 15 | Welcome! Planning |
-| Friday, January 22 | TBA |
-| Friday, January 29 | TBA |
-| Friday, February 5 | TBA |
+| Friday, January 22 | Launching projects: Mock Grant Proposal. CV. Website. Presentations. |
+| Friday, January 29 | First step toward CV. Presentation advice. |
+| Friday, February 5 | First step toward website. Mock Grant Proposal. |
 | Friday, February 12 | TBA |
 | Friday, February 19 | TBA |
 | Friday, February 26 | TBA |
