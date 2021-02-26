@@ -6,28 +6,8 @@ duedate: 2021-03-05
 
 ## Assignment
 
-1.  Add to your cv. Suggested categories are:
-    + teaching experience
-    + research interests (5-20 words)
-    + publications
-    + fellowships, grants, honors, awards
-    + presentations and posters
-    + conferences attended
-    + professional affiliations (professional societies such as AMS, MAA, SIAM)
-    + skills (relevant professionally: languages, computer skills, etc)
-    
-    Within each category, list items in reverse chronological order (most recent at the top).
-    Adjust the ordering, combine or split categories to emphasize most important highlights.
-    
-    For now we are focusing on content, not formatting.
-    
-    You won't be graded on the content of your CV. If you don't have much to list, that's okay.
-    
-    **Upload your cv to gradescope.**
 
-
-
-2.  Read
+1.  Read
     <https://marktomforde.com/academic/gradstudents/AMSarticles/GrantWriting-Brennan.pdf>.
     Focus on the two review criteria,
     *intellectual merit* and *broader impact*.
@@ -38,28 +18,40 @@ duedate: 2021-03-05
     budgeting, and reporting post-award.)
 
 
-3.  Start preparing a draft version of your mock grant proposal, including
+2.  Write a draft version of your mock grant proposal, including
     + Description of proposal topic
     + Why someone would want to know about your topic--the intellectual merit
     + How your project will benefit society--the broader impact
+    + Your plan of how you will tackle your project.
     
-    This is leaving out the plan of how you will tackle your project.
-    We'll add that later. For now, please start with these other parts.
+    This is a first draft; it can be incomplete and have some gaps.
+    The suggested total length is 1-2 pages.
     
     You can be somewhat creative in broader impacts.
     This goes beyond the direct impacts of the project within its topic.
     The *broader* impacts can be in areas such as teaching, dissemination (giving talks on your project),
     training students and junior researchers (e.g., if you will use grant money to pay for a grad student's RAship),
-    bringing mathematics to broader society and the non-mathematical community...
+    bringing mathematics to broader society and the non-mathematical community
+    through some community activity, podcast, or something else...
     
-    Please start gathering your ideas and planning how you'll write this.
-    It will be formally assigned in 1-2 weeks from now.
+    I apologize for dropping this writing assignment on you without at least 2-3 weeks to work on it.
+    The reason is that the deadline for summer graduate fellowship applications is soon.
+    This is being assigned now, while there's still time to give some feedback on this draft,
+    so that it can hopefully help your summer fellowship application.
+    
+    If you are planning to apply for a summer fellowship, and you want to use this writing
+    to get feedback on your application, then you can switch your mock grant proposal topic
+    to your actual research topic.
+    
+    To turn in your draft version:
+    1. Upload to gradescope.
+    2. Email me if it is all right to share your draft with other students in the seminar.
+    
+    You can share it with other students for more feedback from them, but you don't have to.
 
 
-4.  Related to Ph.D. program applications:
-    Read <https://marktomforde.com/academic/mathmajors/KissesOfDeath.html>.
-    Some of the advice here seems reasonable, but there are also some items that I disagree with.
-    Please don't read this as advice that you have to follow.
-    Instead, look at it as a starting point that you can consider, and then decide for yourself.
-    We'll discuss it more in our meeting.
 
+
+In the next 4-5 weeks we will have some more articles to read,
+adding to your CV and website, and more,
+including of course revising the draft document for your mock proposal.
