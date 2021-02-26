@@ -12,8 +12,8 @@ title: Calendar
 | Friday, January 29 | First step toward CV. Presentation advice. |
 | Friday, February 5 | First step toward website. Mock Grant Proposal. |
 | Friday, February 12 | Writing a thesis: Q&A with recent grads |
-| Friday, February 19 | TBA |
-| Friday, February 26 | TBA |
+| Friday, February 19 | Mock grant proposal videos |
+| Friday, February 26 | Discussion and planning |
 | Friday, March 5 | TBA |
 | Friday, March 12 | TBA |
 | Friday, March 19 | TBA |
