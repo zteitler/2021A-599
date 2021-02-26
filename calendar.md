@@ -15,7 +15,7 @@ title: Calendar
 | Friday, February 19 | Mock grant proposal videos |
 | Friday, February 26 | Discussion and planning |
 | Friday, March 5 | TBA |
-| Friday, March 12 | TBA |
+| Friday, March 12 | Joe Champion |
 | Friday, March 19 | TBA |
 | Friday, March 26 | TBA |
 | Friday, April 2 | TBA |
