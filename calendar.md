@@ -17,7 +17,7 @@ title: Calendar
 | Friday, March 5 | TBA |
 | Friday, March 12 | Joe Champion |
 | Friday, March 19 | TBA |
-| Friday, March 26 | TBA |
+| Friday, March 26 | Alexander Woo (University of Idaho) |
 | Friday, April 2 | TBA |
 | Friday, April 9 | TBA |
 | Friday, April 16 | No meeting (Spring Break) |
