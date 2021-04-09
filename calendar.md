@@ -18,8 +18,8 @@ title: Calendar
 | Friday, March 12 | Joe Champion |
 | Friday, March 19 | TBA |
 | Friday, March 26 | Alexander Woo (University of Idaho) |
-| Friday, April 2 | TBA |
-| Friday, April 9 | TBA |
+| Friday, April 2 | No meeting (thesis defense) |
+| Friday, April 9 | Conversation: Plans for summer and fall |
 | Friday, April 16 | No meeting (Spring Break) |
-| Friday, April 23 | TBA |
-| Friday, April 30 | TBA |
+| Friday, April 23 | Conversation: Getting ready for final exams. Wrapping up the year |
+| Friday, April 30 | No meeting |
